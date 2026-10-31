@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class SearchHashMap {
+public class HashMap {
+    private int id;
+    private String name;
+    private double price;
 }
